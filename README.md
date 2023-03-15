@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuitarJamz1812
 - 👀 I’m interested in space physics and electronics engineering
-- 🌱 I’m currently learning about electron conics at Jupiter with NASA's Juno mission and high power model rocketry avionics with the Aeronautics and Rocket Club (ARC)
+- 🌱 I’m currently learning about electron conics at Jupiter with NASA's Juno mission and high power model rocketry electronics with the Aeronautics and Rocket Club (ARC)
 - 📫 How to reach me: juan.junior1812@gmail.com
 
 <!---
